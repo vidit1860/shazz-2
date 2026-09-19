@@ -1,0 +1,6 @@
+{
+  "name": "Al Khan Waterfront Residences",
+  "description": "A signature waterfront destination on Al Khan Peninsula, Sharjah. Featuring 5 contemporary towers, 862 luxury residences, panoramic sea views, and world-class coastal amenities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
